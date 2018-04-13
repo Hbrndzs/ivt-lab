@@ -1,4 +1,5 @@
 language: java
+before_script: cd ivt-lab-master
 jdk:
  - oraclejdk8
 cache:
